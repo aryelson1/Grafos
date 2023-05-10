@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt= "icon" src="https://img1.gratispng.com/20180407/ykw/kisspng-graph-coloring-mathematics-graph-theory-eulerian-p-kaba-5ac8d0b760a987.0561150715231100713959.jpg" width ="200"/>
+  <img alt= "icon" src="https://e7.pngegg.com/pngimages/525/669/png-clipart-edge-coloring-graph-coloring-graph-theory-petersen-graph-edge.png" width ="200"/>
 </p>
 
 <h1>

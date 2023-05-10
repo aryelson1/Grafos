@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://img2.gratispng.com/20180510/xtq/kisspng-complete-graph-graph-theory-cycle-graph-vertex-5af42a3da32042.6640082215259510376682.jpg"/>
+  <img alt= "icon" src="https://img2.gratispng.com/20180510/xtq/kisspng-complete-graph-graph-theory-cycle-graph-vertex-5af42a3da32042.6640082215259510376682.jpg" width ="200"/>
 </p>
 
 <h1>

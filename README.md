@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Icon" src="[./assets/logo.png](https://w7.pngwing.com/pngs/748/799/png-transparent-graph-theory-biconnected-component-brooks-theorem-biconnected-graph-vertex-tree.png)" width="200"/>
+  <img src="[./assets/logo.png](https://w7.pngwing.com/pngs/748/799/png-transparent-graph-theory-biconnected-component-brooks-theorem-biconnected-graph-vertex-tree.png)" width="200"/>
 </p>
 
 <h1 align="center">

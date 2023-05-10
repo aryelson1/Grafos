@@ -1,6 +1,7 @@
-<p align="center">
-  <img alt= "icon" src="https://e7.pngegg.com/pngimages/525/669/png-clipart-edge-coloring-graph-coloring-graph-theory-petersen-graph-edge.png" width ="200"/>
+/*<p align="center">
+  <img alt= "icon" src="" width ="200"/>
 </p>
+*/
 
 <h1>
   GRAFOS

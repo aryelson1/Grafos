@@ -1,8 +1,8 @@
-/*<p align="center">
-  <img alt= "icon" src="" width ="200"/>
-</p>
-*/
 
+
+<!-- <p align="center">
+  <img alt= "icon" src="" width ="200"/>
+</p> -->
 <h1>
   GRAFOS
 </h1>

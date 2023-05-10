@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt= "icon" src="D:\UNIVERSIDADE\TestedeSoftware-main\img.png" width ="200"/>
+  <img alt= "icon" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/TruncatedTetrahedron.gif/440px-TruncatedTetrahedron.gif" width ="200"/>
 </p>
 
 <h1>

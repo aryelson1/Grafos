@@ -38,7 +38,7 @@ O projeto visa explorar conceitos de teoria dos grafos e implementar algoritmos 
 
 ## Funcionalidades Implementadas ( GRAFOS ADJACENTE DIRECIONAL E NÃO DIRECIONAL)
 
-- [x] vertices_nao_adjacentes(self):
+- [X] vertices_nao_adjacentes(self):
 - [x] ha_laco(self):
 - [x] grau(self, V=''):
 - [x] ha_paralelas(self):

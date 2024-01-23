@@ -1,0 +1,14 @@
+#from implementacao_grafo_adj_dir import Grafo
+from implementacao_grafo_rot8 import Grafo
+
+g1 = Grafo(['A','B','C','D'])
+g1.adiciona_aresta('A-B',3)
+g1.adiciona_aresta('A-C',3)
+g1.adiciona_aresta('C-B',3)
+g1.adiciona_aresta('C-D',4)
+g1.adiciona_aresta('D-B',5)
+print(g1.kruskalModificado())
+#print(g1.caminhoDrone('A', 'D', 2, 2, ['D']))
+
+
+
